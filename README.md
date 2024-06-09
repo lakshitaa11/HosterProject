@@ -28,7 +28,6 @@ To get started with the project, follow these steps:
     npm start
     ```
 
-
 ## Usage
 
 Explore the landing page to see the responsive design in action. The layout adjusts automatically to different screen sizes, providing an optimal viewing experience across devices.
@@ -37,4 +36,5 @@ Explore the landing page to see the responsive design in action. The layout adju
 
 - **React**: A JavaScript library for building user interfaces.
 - **Tailwind CSS**: A utility-first CSS framework for rapid UI development.
+- **Vite**: A fast build tool and development server.
 
