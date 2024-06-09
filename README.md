@@ -38,5 +38,3 @@ Explore the landing page to see the responsive design in action. The layout adju
 - **React**: A JavaScript library for building user interfaces.
 - **Tailwind CSS**: A utility-first CSS framework for rapid UI development.
 
-## Project Structure
-
